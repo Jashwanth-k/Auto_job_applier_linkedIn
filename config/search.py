@@ -101,8 +101,8 @@ did_masters = True                 # True or False, Note: True or False are case
 current_experience = 5             # Integers > -2 (Ex: -1, 0, 1, 2, 3, 4...)
 ##
 
-
-
+# filter out and avoid applying to jobs if no of employees is less than the given value
+min_noof_associated_employees = 200
 
 
 
